@@ -1,0 +1,17 @@
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\bin\Debug\net6.0-windows\BalonOyunu.exe
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\bin\Debug\net6.0-windows\BalonOyunu.deps.json
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\bin\Debug\net6.0-windows\BalonOyunu.runtimeconfig.json
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\bin\Debug\net6.0-windows\BalonOyunu.dll
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\bin\Debug\net6.0-windows\BalonOyunu.pdb
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.Form1.resources
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.Properties.Resources.resources
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.csproj.GenerateResource.cache
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.AssemblyInfoInputs.cache
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.AssemblyInfo.cs
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.csproj.CoreCompileInputs.cache
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.dll
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\refint\BalonOyunu.dll
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.pdb
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\BalonOyunu.genruntimeconfig.cache
+C:\Users\tolga\source\repos\BalonOyunu\BalonOyunu\obj\Debug\net6.0-windows\ref\BalonOyunu.dll
